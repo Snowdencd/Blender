@@ -5,4 +5,4 @@ I will use this Readme.md as a log for the projects, defining Name, Start Date a
 ## Bulbasaur
 ![Bulbasaur Render](https://raw.githubusercontent.com/Snowdencd/Blender/main/Pok%C3%A9mon/Bulbasaur1.png)
 **Start Date:** December 9 - 2023
-**End Date:** In process.
+**End Date:** December 30 - 2023
